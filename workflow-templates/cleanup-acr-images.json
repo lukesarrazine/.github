@@ -1,0 +1,8 @@
+{
+    "name": "Clean ACR Images",
+    "description": "Cleanup unused azure container registry images",
+    "iconName": "chef",
+    "categories": [
+        "Azure"
+    ]
+}
